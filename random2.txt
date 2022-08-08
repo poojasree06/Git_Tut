@@ -1,1 +1,1 @@
-A random text two
+Learning branching and merging
