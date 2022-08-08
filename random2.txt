@@ -1,1 +1,1 @@
-Learning branching and merging
+Learning branching and merging in git
